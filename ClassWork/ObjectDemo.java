@@ -35,5 +35,3 @@ public class ObjectDemo {
         this.price = price;
     }
 }
-
-ObjectDemo car1 = new ObjectDemo();
